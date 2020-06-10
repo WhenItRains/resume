@@ -121,6 +121,6 @@ xxxxxxxxxxxx
 2、熟悉 NIO 的开源框架 netty,有 netty 开发 Im 项目经验并深入了解 netty 模型、组件、源码。  
 3、熟悉 Http、Websocket、TCP 协议  
 4、常用框架 Spring、Springboot 、Mybatis  
-5、熟悉 sql ，mysql数据库，redis缓存常用数据类型和订阅发布模式
+5、熟悉 sql ，mysql数据库，redis缓存常用数据类型和订阅发布模式  
 6、熟悉 kafka 分布式发布订阅消息系统，使用 kafka 进行订阅和发布消息，对系统应用解耦，缓解压力  
 7、熟悉 linux 常用命令，tomact 配置参数，部署项目  
