@@ -20,9 +20,7 @@ lc653689310@163.com
 
 **求职意向**
 
-期望薪资：
-
-1w-1.4w/月
+期望薪资：面议
 
 地点：北京
 
@@ -115,9 +113,7 @@ xxxxxxxxxxxx
 
 7、业务流程梳理、项目部署、接口文档和部署文档的编写和完善。
 
-**附加信息**
-
-知识清单
+**知识清单**
 
 主题描述：
 
@@ -125,9 +121,6 @@ xxxxxxxxxxxx
 2、熟悉 NIO 的开源框架 netty,有 netty 开发 Im 项目经验并深入了解 netty 模型、组件、源码。  
 3、熟悉 Http、Websocket、TCP 协议  
 4、常用框架 Spring、Springboot 、Mybatis  
-5、熟悉掌握 sql 的 CRUD，以及多表联合查询、分组、拼接等，了解 mysql 的 sql 优化  
-6、使用缓存 redis 的存储类型做数据缓存、排队队列和系统之间消息通知的发布订阅模式。  
-7、熟悉 kafka 分布式发布订阅消息系统，使用 kafka 进行订阅和发布消息，对系统应用解耦，缓解压力  
-8、熟悉 linux 常用命令，熟练 tomact 容器配置参数，部署项目，了解 tomcat 的 jvm 优化  
-9、了解 zookeeper 框架和 dubbo 服务原理和作用，nginx 服务进行负载均衡  
-10、常用 github 查看技术源码和案例，使用 markdown 语法整理问题记录到 github
+5、熟悉 sql ，mysql数据库，redis缓存常用数据类型和订阅发布模式
+6、熟悉 kafka 分布式发布订阅消息系统，使用 kafka 进行订阅和发布消息，对系统应用解耦，缓解压力  
+7、熟悉 linux 常用命令，熟练 tomact 容器配置参数，部署项目，了解 tomcat 的 jvm 优化  
